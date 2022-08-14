@@ -6,3 +6,4 @@ public class Snake extends Enemy{
         super("Snake", 4, 0, 12, 0);
     }
 }
+
